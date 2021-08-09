@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<RequestDetails>
+		<Id>a3a4477e-88fa-49bd-9d30-7ec7dcab8f45</Id>
+		<AcceptDate>2021-05-18 13:07:38.022000000</AcceptDate>
+		<SourceCompany>מנורה מבטחים</SourceCompany>
+	</RequestDetails>
+	<Event>
+		<Id>471b29e7-a323-447b-88d8-935737e9ffd4</Id>
+		<Type>E1</Type>
+		<InsuredId>111111111</InsuredId>	
+		<Product>
+			<Type>AAA</Type>
+			<Price>2000</Price>
+			<StartDate>2021-05-30</StartDate>
+			<EndDate>2022-04-30</EndDate>
+		</Product>
+		<Product>
+			<Type>BBB</Type>
+			<Price>2500</Price>
+			<StartDate>2021-07-30</StartDate>
+			<EndDate>2022-06-30</EndDate>
+		</Product>
+	</Event>
+	<Event>
+		<Id>26238a4d-72b8-4da4-b268-35bfa85e10be</Id>
+		<Type>E2</Type>
+		<InsuredId>111111111</InsuredId>	
+		<Product>
+			<Type>CCC</Type>
+			<Price>3000</Price>
+			<StartDate>2021-07-30</StartDate>
+			<EndDate>2022-06-30</EndDate>
+		</Product>
+	</Event>
+	<Event>
+		<Id>03c77baf-8bd5-492d-89ba-cbeb8a498020</Id>
+		<Type>E2</Type>
+		<InsuredId>222222222</InsuredId>
+		<Product>
+			<Type>CCC</Type>
+			<Price>3500</Price>
+			<StartDate>2021-09-30</StartDate>
+			<EndDate>2022-08-30</EndDate>
+		</Product>
+		<Product>
+			<Type>AAA</Type>
+			<Price>1800</Price>
+			<StartDate>2021-08-30</StartDate>
+			<EndDate>2022-07-30</EndDate>
+		</Product>
+	</Event>
+</Root>
